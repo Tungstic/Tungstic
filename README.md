@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">A full-stack developer with background in linguistics.</h3>
+<h3 align="center">A full-stack developer with background in translation and customer support</h3>
+
+I love creating interactive and user-friendly designs with React and am particularly interested in backend development. My next goal is to learn Java and Angular.
 
 - 🔭 I’m currently working on **a digital food diary that helps people identify food intolerances.**
-
 - 📫 How to reach me: **nbudulchieva@gmail.com**
+- ⚡ Fun fact: Stemming from my interest in true crime, bug hunting is my favourite pastime.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
