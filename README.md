@@ -3,7 +3,7 @@
 
 I love creating interactive and user-friendly designs with React and am particularly interested in backend development. My next goal is to learn Java and Angular.
 
-- 🔭 I’m currently working on **a digital food diary** that helps people identify food intolerances (a private repo, can grant you access).
+- 🔭 I’m currently working on **a digital food diary** that helps people identify food intolerances.
 - 📫 How to reach me: **nbudulchieva@gmail.com**
 - ⚡ Fun fact: Stemming from my interest in true crime, bug hunting is my favourite pastime.
 
