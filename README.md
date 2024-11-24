@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">An aspiring QA Engineer with background in web development</h3>
 
-I love test design and regulary test my own limits. My next goal is to learn Java and become highly opinionated about OOP :D
+I love test design and regulary test my own limits.
 
 - 🔭 I’ve built **a digital food diary** that helps people identify food intolerances.
 - 📫 How to reach me: **nbudulchieva@gmail.com**
