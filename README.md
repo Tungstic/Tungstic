@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">An aspiring QA Engineer with background in web development</h3>
+<h3 align="center">a QA Engineer with background in web development</h3>
 
 I love test design and regulary test my own limits.
 
@@ -9,7 +9,6 @@ I love test design and regulary test my own limits.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tungstic_oxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tungstic_oxide" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nataliabudulchieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nataliabudulchieva" height="30" width="40" /></a>
 </p>
 
